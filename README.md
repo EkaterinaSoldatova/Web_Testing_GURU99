@@ -2,7 +2,7 @@
 
 Website testing [GURU99](https://demo.guru99.com/telecom/index.html)
 
-[Requirements](https://docs.google.com/spreadsheets/d/17pDHGwkAFIrDY8UlfVdkKrw2lv6KFSYgS0cryyty1Fk/edit)
+[Requirements](https://drive.google.com/drive/folders/1U751fugqDYP-uNKr5S6Q4U-eTLyAQFjf?usp=sharing)
 
 Task:
 1. Create a checklist for the main page (in Google Drive).
